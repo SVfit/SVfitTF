@@ -3,8 +3,7 @@
 <use   name="FWCore/ParameterSet"/>
 <use   name="root"/>
 <use   name="roofit"/>
-<Flags LDFLAGS="-rdynamic" />
-<Flags ADD_SUBDIR="1"/>
+<flags LDFLAGS="-rdynamic" />
 <export>
   <lib   name="1"/>
 </export>
